@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Basics_of_Singly_linked_List.C": "cpp"
+    },
+    "java.compile.nullAnalysis.mode": "disabled"
+}
